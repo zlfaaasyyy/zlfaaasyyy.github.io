@@ -9,7 +9,6 @@ tags: [daa, algorithm, rat-in-the-maze, dynamic-programming]
 
 Masalah *Rat in the Maze* merupakan salah satu contoh klasik dalam algoritma pencarian jalur, di mana seekor tikus harus mencari jalan dari titik awal ke tujuan di dalam sebuah labirin yang diwakili sebagai matriks dua dimensi. Labirin ini terdiri dari jalur yang bisa dilewati (`1`) dan rintangan (`0`). Masalah ini banyak diaplikasikan pada bidang seperti pencarian rute otomatis dan navigasi robot.
 
-![Rat in the Maze](assets/pertemuan/klp6/Screenshot 2025-06-09 221153.jpg){: width="500"}
 
 ---
 
