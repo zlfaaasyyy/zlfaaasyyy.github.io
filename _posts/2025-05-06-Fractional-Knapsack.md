@@ -9,7 +9,6 @@ tags: [daa, algorithm, greedy]
 
 Halo semuanya! Setelah mempelajari **Activity Selection Problem**, kita akan lanjut membahas salah satu persoalan penting lain dalam algoritma greedy, yaitu **Fractional Knapsack**.
 
-![Desktop View](assets/pertemuan/klp2/Screenshot 2025-06-09 220833.jpg){: width="500"}
 
 ---
 

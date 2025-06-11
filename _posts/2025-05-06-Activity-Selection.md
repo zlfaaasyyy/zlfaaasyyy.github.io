@@ -9,7 +9,6 @@ tags: [daa, algorithm, greedy]
 
 Halo semuanya! Kali ini kita akan membahas salah satu topik penting dalam dunia algoritma dan optimasi, yaitu **Activity Selection Problem**, yang dibawakan oleh Kelompok 1.
 
-![Desktop View](/assets/pertemuan/klp1/Screenshot 2025-06-09 220634.jpg){: width="500"}
 
 ---
 
